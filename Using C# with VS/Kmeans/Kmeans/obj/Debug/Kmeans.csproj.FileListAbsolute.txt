@@ -1,0 +1,10 @@
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\bin\Debug\Kmeans.exe.config
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\bin\Debug\Kmeans.exe
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\bin\Debug\Kmeans.pdb
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.Form1.resources
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.Properties.Resources.resources
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.csproj.GenerateResource.cache
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.csproj.CoreCompileInputs.cache
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.exe
+C:\Users\Compaq\source\repos\Kmeans\Kmeans\obj\Debug\Kmeans.pdb

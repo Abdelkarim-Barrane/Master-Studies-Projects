@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\bin\Debug\KMeans.exe
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\bin\Debug\KMeans.pdb
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\obj\x86\Debug\KMeans.Form1.resources
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\obj\x86\Debug\KMeans.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\obj\x86\Debug\KMeans.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\obj\x86\Debug\KMeans.exe
+c:\users\pc\documents\visual studio 2010\Projects\KMeans\KMeans\obj\x86\Debug\KMeans.pdb

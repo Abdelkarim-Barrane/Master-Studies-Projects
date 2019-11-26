@@ -1,0 +1,22 @@
+c:\users\o\documents\visual studio 2015\Projects\prj3\prj3\bin\Debug\prj3.exe.config
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\bin\Debug\prj3.exe
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\bin\Debug\prj3.pdb
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\obj\Debug\prj3.csprojResolveAssemblyReference.cache
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\obj\Debug\prj3.Form1.resources
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\obj\Debug\prj3.Properties.Resources.resources
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\obj\Debug\prj3.csproj.GenerateResource.Cache
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\obj\Debug\prj3.exe
+C:\Users\O\documents\visual studio 2015\Projects\prj3\prj3\obj\Debug\prj3.pdb
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\bin\Debug\prj3.exe.config
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\bin\Debug\prj3.exe
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\bin\Debug\prj3.pdb
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\bin\Debug\StarMath.dll
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\bin\Debug\StarMath.pdb
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.csprojAssemblyReference.cache
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.Form1.resources
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.Properties.Resources.resources
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.csproj.GenerateResource.cache
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.csproj.CoreCompileInputs.cache
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.csproj.CopyComplete
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.exe
+C:\Users\karim\Documents\Master 3I\M1 s2\Info cognitive\prj3\prj3\obj\Debug\prj3.pdb
